@@ -1,6 +1,6 @@
 <?php
 $sekolah = "SMK Telkom Malang ";
-$angkatan = 24;
+$angkatan = 29;
 echo "Saya adalah siswa ".$sekolah;
 echo "angkatan ".$angkatan;
 ?>
